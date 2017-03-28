@@ -1,2 +1,2 @@
 # hello-world
-Initialize this repository with a README
+Hello humans. First time trying to learn github
